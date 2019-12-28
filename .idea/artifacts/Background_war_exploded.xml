@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Background:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Background_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Background/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Background" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/eclipse pro/WebAPI/WebContent/WEB-INF/lib/gson-2.8.0.jar" />
+          <element id="library" level="project" name="gson-2.8.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
